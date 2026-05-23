@@ -2,7 +2,7 @@
 layout: post
 title: "7 Free AI Automation Tools Small Businesses Are Actually Using in 2026"
 date: 2026-05-23
-categories: [automation, small-business]
+
 ---
 
 I run a small business. Last year, I spent $4,800 on marketing automation software I barely used. Sound familiar?

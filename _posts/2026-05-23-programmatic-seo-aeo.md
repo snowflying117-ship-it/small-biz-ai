@@ -2,7 +2,7 @@
 layout: post
 title: "How I Got 2,400 AI Citations in 3 Weeks: A Programmatic SEO + AEO Playbook"
 date: 2026-05-23
-categories: [seo, aeo, ai]
+
 ---
 
 Traditional SEO is dying.

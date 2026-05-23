@@ -2,7 +2,7 @@
 layout: post
 title: "5 Signs Your AI-Built SaaS Is Broken (And How to Fix It for $500)"
 date: 2026-05-23
-categories: [saas, ai, development]
+
 ---
 
 In May 2026, Coinbase laid off 2,000 people and replaced them with "1-person product teams" powered by AI. The message was clear: build fast with AI, or get left behind.
